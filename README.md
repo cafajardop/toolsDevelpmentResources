@@ -1,6 +1,6 @@
 ## Seccion de Fuentes
 
-| URL           | Direccion     |
+| Direccion           | URL     |
 | ------------- | ------------- |
 | Font-Awesome | https://fortawesome.github.io/Font-Awesome/ |
 | ionicons | http://ionicons.com/ |
@@ -16,3 +16,13 @@
 | ARCTEXT.JS |http://tympanus.net/Development/Arctext/|
 | Shuffle Letters |http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery/|
 | mThumb |https://github.com/mindsharelabs/mthumb|
+
+# Generadores de código
+| Direccion     | URL     |
+| ------------- | ------------- |
+| JSON-Generator| http://www.json-generator.com/|
+| HTML-Compressor| https://htmlcompressor.com/compressor/|
+| CSS3-Generator| http://css3generator.com/|
+| Generador de Color HTML| https://color.hailpixel.com/|
+| Gradient-Editor| http://www.colorzilla.com/gradient-editor/|
+| placehold.it| http://placehold.it/#|
